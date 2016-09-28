@@ -1,0 +1,19 @@
+{
+    "accuracy": 90.0,
+    "deviceID": "CDC47124648058A",
+    "environment": {
+        "humidity": 30.2,
+        "illuminance": 7.5,
+        "pressure": 20.0,
+        "temperature": 25.0
+    },
+    "time": {
+        "day": 20,
+        "hour": 5,
+        "minute": 52,
+        "month": 4,
+        "second": 0,
+        "year": 1991
+    },
+    "userID": "+94770780210"
+}

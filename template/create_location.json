@@ -1,0 +1,19 @@
+{
+    "accuracy": 98.0,
+    "deviceID": "CDC47124648058A",
+    "location": {
+        "latitude": 6.8781381,
+        "locationID": "6.8781381,79.857488",
+        "longitude": 79.857488,
+        "name": "Home"
+    },
+    "time": {
+        "day": 24,
+        "hour": 9,
+        "minute": 1,
+        "month": 12,
+        "second": 0,
+        "year": 2015
+    },
+    "userID": "+94770780210"
+}

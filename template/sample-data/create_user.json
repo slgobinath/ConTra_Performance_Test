@@ -1,0 +1,18 @@
+{
+    "device": {
+        "active": false,
+        "api": 20,
+        "batteryLevel": 0.0,
+        "bluetoothMAC": "125.0.12.2",
+        "deviceID": "c195442d1e65c922",
+        "manufacturer": "HTC",
+        "proximity": 0.0,
+        "sensors": [
+            "Light",
+            "Temperature"
+        ],
+        "token": "GCM-123456777",
+        "wifiMAC": "127.0.12.2"
+    },
+    "userID": "+94770780211"
+}

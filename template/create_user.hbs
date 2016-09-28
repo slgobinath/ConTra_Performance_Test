@@ -1,0 +1,19 @@
+{
+    "device": {
+        "active": false,
+        "api": {{int 1 23}},
+        "batteryLevel": 0.0,
+        "bluetoothMAC": "{{mac}}",
+        "deviceID": "{{deviceID}}",
+        "manufacturer": "{{manufacturer}}",
+        "proximity": 0.0,
+        "sensors": [
+            {{#repeat 3}}
+            "{{sensor}}"
+            {{/repeat}}
+        ],
+        "token": "GCM-{{int 1000000 5000000}}",
+        "wifiMAC": "{{mac}}"
+    },
+    "userID": "{{phone "+947xxxxxxxx"}}"
+}

@@ -1,0 +1,11 @@
+{
+    "device": {
+        "active": false,
+        "api": 0,
+        "batteryLevel": 56.0,
+        "deviceID": "CDC47124648058A",
+        "proximity": 7.0,
+        "state": "DRIVING"
+    },
+    "userID": "+94770780210"
+}
